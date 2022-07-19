@@ -60,7 +60,7 @@ $ npm start
 
 <p align="center" >
   <h2 align="center">🚀 Running</h2>
-  <img alt="asag" src=""https://raw.githubusercontent.com/emersoncomsono/asag/main/Screenshot_20220719-113614_Termux.jpg>
+  <img alt="asag" src="https://raw.githubusercontent.com/emersoncomsono/asag/main/Screenshot_20220719-113614_Termux.jpg">
 </p>
 
 <p align="center" >
