@@ -58,6 +58,8 @@ $ npm i
 $ npm start
 ```
 
+
+
 <p align="center" >
   <h2 align="center">🚀 Running</h2>
   <img alt="asag" src="https://raw.githubusercontent.com/emersoncomsono/asag/main/Screenshot_20220719-113614_Termux.jpg">
@@ -70,7 +72,9 @@ $ npm start
 <img src = "https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" /> </a>
 <h2 align="center">🙏 Agradecimentos especiais</h2>
 
-- [**Adiwajshing - Baileys**](https://github.com/adiwajshing/Baileys)
+
+* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+
 
  <h2 align="center">💰 Donate</h2>
  
