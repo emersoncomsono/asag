@@ -12,8 +12,6 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/emersoncomsono/asag/blob/master/README.md#-install">Install & Run</a> •  
 
   
 </p>
